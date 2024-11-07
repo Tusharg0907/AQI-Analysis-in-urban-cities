@@ -1,1 +1,1 @@
-# AQI-Analysis-in-urban-cities
+# Air-Quality-Analysis-of-indian-states-and-cities
